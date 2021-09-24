@@ -4,14 +4,14 @@ const fetch = require('node-fetch'),
     request = require('request'),
     client = new Discord.Client(),
     XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest,
-    admins = ["yourid", "yourid", "yourid"],
+    admins = ["535645827830644737", "yourid", "yourid"],
     config = {
-        "yourroleid": 1500,
-        "yourroleid": 75,
-        "yourroleid": 50,
-        "yourroleid": 20,
-        "yourroleid": 10,
-        "yourroleid": 5
+        "800778210165522469": 3500,
+        "800778210165522468": 725,
+        "800778210165522467": 50,
+        "800778210165522464": 20,
+        "800778210148352078": 10,
+        "800778210148352077": 5
     } 
  
 var tokens = fs.readFileSync('./tokens.txt', 'utf-8');
